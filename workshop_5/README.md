@@ -9,11 +9,11 @@
 
 ### Результати
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="images/Radiolocator.png" height="150px">
-  <img src="images/Space Station.png" height="150px">
-  <img src="images/UFO.png" height="150px">
-  <img src="images/Exploration.png" height="150px">
-  <img src="images/Alien.png" height="150px">
+  <img src="images/Radiolocator.png" height="170px">
+  <img src="images/Space Station.png" height="170px">
+  <img src="images/UFO.png" height="170px">
+  <img src="images/Exploration.png" height="170px">
+  <img src="images/Alien.png" height="170px">
 </p>
 
 ### Процес створення
@@ -34,4 +34,4 @@
 Під час виконання завдання було опановано використання булевих груп у Figma. Завдяки цим інструментам можна створювати складні форми швидко та ефективно. Це дозволяє значно покращити процес дизайну та розширити можливості роботи з векторною графікою.
 
 ### Посилання на проект у Figma
-[Переглянути проект]([https://www.figma.com/](https://www.figma.com/design/PyqXTpPtZvkqPBkzqya1aT/24.03.2025?node-id=0-1&p=f&t=ICFFINP2G3WlmEKb-0))
+[Переглянути проект](https://www.figma.com/design/PyqXTpPtZvkqPBkzqya1aT/24.03.2025?node-id=0-1&p=f&t=ICFFINP2G3WlmEKb-0)
