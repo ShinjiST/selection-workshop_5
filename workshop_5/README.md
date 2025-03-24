@@ -9,6 +9,25 @@
 
 ### Результати
 
+#### Значки  
+<table align="center">
+  <tr>
+    <td align="center">Radiolocator</td>
+    <td align="center">Space Station</td>
+    <td align="center">UFO</td>
+    <td align="center">Exploration</td>
+    <td align="center">Alien</td>
+  </tr>
+  <tr>
+    <td><img src="images/Radiolocator.png" height="170px"></td>
+    <td><img src="images/Space Station.png" height="170px"></td>
+    <td><img src="images/UFO.png" height="170px"></td>
+    <td><img src="images/Exploration.png" height="170px"></td>
+    <td><img src="images/Alien.png" height="170px"></td>
+  </tr>
+</table>  
+
+#### Значки у фреймах ("Frame")  
 <table align="center">
   <tr>
     <td align="center">Frame Radiolocator</td>
@@ -18,14 +37,13 @@
     <td align="center">Frame Alien</td>
   </tr>
   <tr>
-    <td><img src="images/Radiolocator.png" height="170px"></td>
-    <td><img src="images/Space Station.png" height="170px"></td>
-    <td><img src="images/UFO.png" height="170px"></td>
-    <td><img src="images/Exploration.png" height="170px"></td>
-    <td><img src="images/Alien.png" height="170px"></td>
+    <td><img src="images/Frame Radiolocator.png" height="170px"></td>
+    <td><img src="images/Frame Space Station.png" height="170px"></td>
+    <td><img src="images/Frame UFO.png" height="170px"></td>
+    <td><img src="images/Frame Exploration.png" height="170px"></td>
+    <td><img src="images/Frame Alien.png" height="170px"></td>
   </tr>
 </table>
-
 
 ### Процес створення
 1. Використання основних фігур (кола, прямокутника, трикутника тощо).
