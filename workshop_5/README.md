@@ -10,7 +10,7 @@
 ### Результати
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="images/Radiolocator.png" height="200px">
-  <img src="images/Space_Station.png" height="200px">
+  <img src="images/Space Station.png" height="200px">
   <img src="images/UFO.png" height="200px">
   <img src="images/Exploration.png" height="200px">
   <img src="images/Alien.png" height="200px">
