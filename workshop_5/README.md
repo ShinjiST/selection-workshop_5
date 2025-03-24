@@ -8,7 +8,7 @@
 - Створити **двоє(я створив п`ять)** значків у заливковому стилі (solid), використовуючи булеві групи.
 
 ### Результати
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="images/Radiolocator.png" height="170px">
   <img src="images/Space Station.png" height="170px">
   <img src="images/UFO.png" height="170px">
