@@ -8,13 +8,24 @@
 - Створити **двоє(я створив п`ять)** значків у заливковому стилі (solid), використовуючи булеві групи.
 
 ### Результати
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="images/Radiolocator.png" height="170px">
-  <img src="images/Space Station.png" height="170px">
-  <img src="images/UFO.png" height="170px">
-  <img src="images/Exploration.png" height="170px">
-  <img src="images/Alien.png" height="170px">
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center">Frame Radiolocator</td>
+    <td align="center">Frame Space Station</td>
+    <td align="center">Frame UFO</td>
+    <td align="center">Frame Exploration</td>
+    <td align="center">Frame Alien</td>
+  </tr>
+  <tr>
+    <td><img src="images/Radiolocator.png" height="170px"></td>
+    <td><img src="images/Space Station.png" height="170px"></td>
+    <td><img src="images/UFO.png" height="170px"></td>
+    <td><img src="images/Exploration.png" height="170px"></td>
+    <td><img src="images/Alien.png" height="170px"></td>
+  </tr>
+</table>
+
 
 ### Процес створення
 1. Використання основних фігур (кола, прямокутника, трикутника тощо).
